@@ -3,7 +3,7 @@ I'm Ilya. I'm Stydying in University in IT speciality.
 ## What languages have I used
 Swift, Python, C++, Obj-c, JavaScript, Java, qml
 ## What libraries have I used
-Win32 API, CoreData, SwiftUI, UIKit, qt5
+Win32 API, CoreData, SwiftUI, UIKit, qt5, XCTest, apple logging
 # What I'm currently doing
 - managing my mediaserver
 

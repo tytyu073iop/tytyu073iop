@@ -1,6 +1,6 @@
-# whoami
+# Whoami
 I'm Ilya. I'm Stydying in University in IT speciality.
-## what languages have I used
+## What languages have I used
 Swift, Python, C++, Obj-c, JavaScript, Java
 # What I'm currently doing
 - managing my mediaserver

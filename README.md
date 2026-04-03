@@ -5,7 +5,7 @@ Swift, Python, C++, C, Obj-c, JavaScript, Java, C#, qml, Kotlin
 ## What libraries have I used
 Win32 API, CoreData, XCTest, apple logging, Jest, JUnit, JPA, React
 ## What frameworks have I used
-SwiftUI, UIKit, qt5, Spring boot, Node.js, Angular, Next.js, .Net, ADO.net, ASP.net, next.js
+SwiftUI, UIKit, qt5, Spring boot, Node.js, Angular, Next.js, .Net, ADO.net, ASP.net, next.js, express.js
 ## Databases
 Firestore, MS SQL Server, MySQL, SQLite, MS Access
 ## Other technologies

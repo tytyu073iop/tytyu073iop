@@ -9,6 +9,7 @@ Win32 API, CoreData, SwiftUI, UIKit, qt5, XCTest, apple logging
 
 # What have I done
 - [Ropes app for apple platforms](https://github.com/tytyu073iop/Ropes)
+- [Transmission client for arduino](https://github.com/tytyu073iop/arduino_transmission_shower)
 
 # What I wanna do
 - [wrong length detector](https://github.com/tytyu073iop/Identifier)
